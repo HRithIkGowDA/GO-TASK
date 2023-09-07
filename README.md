@@ -9,7 +9,7 @@ npm start
 Implementation of Product page of Myntra with various filters and sorting features along with cart  in React with vanilla(pure) CSS.
 
 # Tech Stack used for the assignment
-ReactJS, Redux , HTML , CSS , JAVASCRIPT
+ReactJS, Redux , HTML , CSS , JAVASCRIPT.
 Redux Toolkit.
 
 # Info
